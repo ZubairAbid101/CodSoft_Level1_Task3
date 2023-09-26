@@ -1,0 +1,22 @@
+.display{
+    height: 40px;
+    padding: 8px;
+
+    background-color: black;
+    color: whitesmoke;
+
+    font-family: 'Play', sans-serif;
+
+    font-size: 20px;
+
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.expression-display, .output-display{
+    margin-top: 10px;
+}
